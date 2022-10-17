@@ -1,0 +1,52 @@
+body{
+    margin-top: 10px;
+    background-color: rgb(19, 0, 124);
+    text-align: center;
+}
+.title h1{
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+    color: white;
+}
+.title h2{
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+    color: white;
+}
+h3{
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+    color: white;
+}
+._container{
+   width: 50%;
+   margin: auto;
+   text-align: center;
+}
+.play_button{
+    display: inline;
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    border-radius: 20%;
+    border: 5px solid black;
+
+}
+.footer .copyright{ 
+   
+    text-align: center;
+    color: aliceblue;
+    left: 45%;
+}
+#green{
+    background-color: green;
+}
+#red{
+    background-color: red;
+}
+#yellow{
+    background-color: yellow;
+}
+#blue{
+    background-color: blue;
+}
